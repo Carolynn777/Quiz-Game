@@ -1,1 +1,1 @@
-A lightweight, console-based quiz application written in Python.
+A lightweight, console-based quiz game written in Python.
